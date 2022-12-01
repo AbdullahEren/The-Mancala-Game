@@ -4,6 +4,6 @@ Players begin by placing a certain number of seeds, prescribed for the particula
 
 If playing in capture mode, once a player ends their turn in an empty pit on their own side, they capture the opponent's pieces directly across. Once captured, the player gets to put the seeds in their own bank. After capturing, the opponent forfeits a turn.
 
-#Author
+<h1>Author</h1>
 
 Abdullah Eren Yürek
